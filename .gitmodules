@@ -1,0 +1,24 @@
+[submodule "no-scrooooll-bar"]
+	path = no-scrooooll-bar
+	url = https://github.com/umaumax/no-scrooooll-bar
+	branch = master
+[submodule "qiita-spam-filtering"]
+	path = qiita-spam-filtering
+	url = https://github.com/umaumax/qiita-spam-filtering
+	branch = master
+[submodule "site-bloooocker"]
+	path = site-bloooocker
+	url = https://github.com/umaumax/site-bloooocker
+	branch = master
+[submodule "goooogle"]
+	path = goooogle
+	url = https://github.com/umaumax/goooogle
+	branch = master
+[submodule "goooogle-trans"]
+	path = goooogle-trans
+	url = https://github.com/umaumax/goooogle-trans
+	branch = master
+[submodule "keeeey"]
+	path = keeeey
+	url = https://github.com/umaumax/keeeey
+	branch = master
