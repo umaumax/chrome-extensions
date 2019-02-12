@@ -1,5 +1,10 @@
 # chrome-extensions
 
+## init
+```
+git submodule update --init --recursive
+```
+
 ## FMI:
 ### how to add chrome-extension
 ```
