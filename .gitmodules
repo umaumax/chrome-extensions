@@ -22,3 +22,7 @@
 	path = keeeey
 	url = https://github.com/umaumax/keeeey
 	branch = master
+[submodule "wysiwyg-textarea"]
+	path = wysiwyg-textarea
+	url = https://github.com/umaumax/wysiwyg-textarea
+	branch = master
