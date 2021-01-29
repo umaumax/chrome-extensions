@@ -26,3 +26,6 @@
 	path = wysiwyg-textarea
 	url = https://github.com/umaumax/wysiwyg-textarea
 	branch = master
+[submodule "giiiithub-extension"]
+	path = giiiithub-extension
+	url = https://github.com/umaumax/giiiithub-extension
