@@ -29,3 +29,6 @@
 [submodule "giiiithub-extension"]
 	path = giiiithub-extension
 	url = https://github.com/umaumax/giiiithub-extension
+[submodule "cooool-as-curl-menu"]
+	path = cooool-as-curl-menu
+	url = https://github.com/umaumax/cooool-as-curl-menu
