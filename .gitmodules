@@ -32,3 +32,6 @@
 [submodule "cooool-as-curl-menu"]
 	path = cooool-as-curl-menu
 	url = https://github.com/umaumax/cooool-as-curl-menu
+[submodule "link-grep-selector"]
+	path = link-grep-selector
+	url = https://github.com/umaumax/link-grep-selector
